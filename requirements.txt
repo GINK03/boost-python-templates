@@ -1,0 +1,5 @@
+libboost-dev
+libboost-python-dev
+libboost-system-dev
+python-dev
+python-numpy 
